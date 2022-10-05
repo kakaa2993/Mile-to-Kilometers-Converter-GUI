@@ -1,0 +1,21 @@
+body {
+    background-color: hsl(30, 38%, 92%);
+    text-align: center;
+}
+
+.main-container {
+    width: 590px;
+    height: 445px;
+    background-color: hsl(0, 0%, 100%);
+    margin: 100px auto;
+    border-radius: 15px;
+    position: relative;
+}
+img {
+    height: 445px;
+    position: absolute;
+    left: 0;
+}
+.text-container {
+
+}
