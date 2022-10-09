@@ -72,6 +72,12 @@ p {
     color: hsl(212, 21%, 14%);
 
 }
+.emoji {
+
+    height: 0.9375rem;
+    width: 0.9375rem;
+    padding-left: 3.125rem;
+}
 .button {
   background-color: hsl(158, 36%, 37%);
   border: none;
@@ -90,10 +96,7 @@ p {
   right: 1.875rem;
   border-radius: 0.5rem;
 }
-.emoji {
-
-    height: 0.9375rem;
-    width: 0.9375rem;
-    padding-left: 3.125rem;
+.button:hover {
+    background-color: #1A4031;
 }
 
