@@ -47,7 +47,7 @@ h1 {
 }
 p {
     line-height: 23px;
-    color: hsl(212, 21%, 14%)
+    color: hsl(212, 21%, 14%);
 }
 
 .price {
