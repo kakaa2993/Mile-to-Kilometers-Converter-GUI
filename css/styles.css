@@ -3,7 +3,7 @@ body {
     text-align: center;
     font-size: 14px;
     font-family: 'Montserrat';
-    font-weight: 900;
+    font-weight: 500;
 
 }
 
@@ -31,7 +31,17 @@ img {
     font-family: 'Montserrat';
     font-weight: 500;
     text-align: left;
+    color: hsl(212, 21%, 14%)
 }
+/*.second-container {
+    width: 230px;
+    position: absolute;
+    right: 33px;
+    clear: right;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    text-align: left;
+}*/
 h3 {
     font-family: 'Montserrat';
     font-weight: 500;
@@ -40,6 +50,7 @@ h1 {
     width: 200px;
     font-family: 'Fraunces';
     font-weight: 700;
+
 }
 
 .price {
@@ -47,6 +58,9 @@ h1 {
     display: inline;
     font-family: 'Fraunces';
     font-weight: 700;
+    position: absolute;
+    right: 100px;
+    bottom: 100px;
 }
 #price_cut {
     text-decoration-line: line-through;
@@ -56,6 +70,9 @@ h1 {
     margin-left: 30px;
     margin-bottom: 100px;
     position: absolute;
+    right: 60px;
+    bottom: 25px;
+    color: hsl(212, 21%, 14%);
 
 }
 .button {
@@ -83,7 +100,6 @@ h1 {
     height:15px;
     width:15px;
     padding-left: 50px;
-
 }
 
 
