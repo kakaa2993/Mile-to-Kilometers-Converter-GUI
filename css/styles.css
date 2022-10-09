@@ -33,15 +33,7 @@ img {
     text-align: left;
     color: hsl(212, 21%, 14%)
 }
-/*.second-container {
-    width: 230px;
-    position: absolute;
-    right: 33px;
-    clear: right;
-    font-family: 'Montserrat';
-    font-weight: 500;
-    text-align: left;
-}*/
+
 h3 {
     font-family: 'Montserrat';
     font-weight: 500;
@@ -94,42 +86,8 @@ h1 {
   border-radius: 8px;
 }
 .emoji {
-    /*font-size: 20px;*/
-    /*color: transparent;*/
-    /*text-shadow: 0 0 0 white;*/
+
     height:15px;
     width:15px;
     padding-left: 50px;
 }
-
-
-
-
-
-/* CSS */
-/*.button {
-  appearance: none;
-  background-color: #2ea44f;
-  border: 1px solid rgba(27, 31, 35, .15);
-  border-radius: 6px;
-  box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
-  box-sizing: border-box;
-  color: #fff;
-  cursor: pointer;
-  display: inline-block;
-  font-family: -apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
-  font-size: 14px;
-  font-weight: 600;
-  line-height: 20px;
-  padding: 6px 16px;
-  position: relative;
-  text-align: center;
-  text-decoration: none;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-  vertical-align: middle;
-  white-space: nowrap;
-}
-*/
-
