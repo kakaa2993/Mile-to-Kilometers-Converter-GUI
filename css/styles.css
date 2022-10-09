@@ -1,32 +1,32 @@
 body {
     background-color: hsl(30, 38%, 92%);
     text-align: center;
-    font-size: 14px;
+    font-size: 0.875rem;
     font-family: 'Montserrat';
     font-weight: 500;
 
 }
 
 .main-container {
-    width: 590px;
-    height: 445px;
+    width: 36.875rem;
+    height: 27.8125rem;
     background-color: hsl(0, 0%, 100%);
-    margin: 100px auto;
-    border-radius: 15px;
+    margin: 6.25rem auto;
+    border-radius: 0.9375rem;
     position: relative;
 
 }
 img {
-    height: 445px;
+    height: 27.8125rem;
     position: absolute;
     left: 0;
-    border-top-left-radius:  15px;
-    border-bottom-left-radius:  15px;
+    border-top-left-radius:  0.9375rem;
+    border-bottom-left-radius:  0.9375rem;
 }
 .text-container {
-    width: 230px;
+    width: 14.375rem;
     position: absolute;
-    right: 33px;
+    right: 2.0625rem;
     clear: right;
     font-family: 'Montserrat';
     font-weight: 500;
@@ -39,7 +39,7 @@ h3 {
     font-weight: 500;
 }
 h1 {
-    width: 200px;
+    width: 12.5rem;
     font-family: 'Fraunces';
     font-weight: 700;
 
@@ -51,19 +51,19 @@ h1 {
     font-family: 'Fraunces';
     font-weight: 700;
     position: absolute;
-    right: 100px;
-    bottom: 100px;
+    right: 6.25rem;
+    bottom: 6.25rem;
 }
 #price_cut {
     text-decoration-line: line-through;
     display: inline;
     font-family: 'Montserrat';
     font-weight: 500;
-    margin-left: 30px;
-    margin-bottom: 100px;
+    margin-left: 1.875rem;
+    margin-bottom: 6.25rem;
     position: absolute;
-    right: 60px;
-    bottom: 25px;
+    right: 3.75rem;
+    bottom: 1.5625rem;
     color: hsl(212, 21%, 14%);
 
 }
@@ -71,23 +71,24 @@ h1 {
   background-color: hsl(158, 36%, 37%);
   border: none;
   color: hsl(0, 0%, 100%);
-  padding: 15px 70px 15px 80px;
+  padding: 0.9375rem 4.375rem 0.9375rem 5rem;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 13px;
+  font-size: 0.8125rem;
   font-family: 'Fraunces';
   font-weight: 700;
-  margin: 4px 2px;
+  margin: 0.25rem 0.125rem;
   cursor: pointer;
   position: absolute;
-  bottom: 50px;
-  right: 30px;
-  border-radius: 8px;
+  bottom: 3.125rem;
+  right: 1.875rem;
+  border-radius: 0.5rem;
 }
 .emoji {
 
-    height:15px;
-    width:15px;
-    padding-left: 50px;
+    height: 0.9375rem;
+    width: 0.9375rem;
+    padding-left: 3.125rem;
 }
+
