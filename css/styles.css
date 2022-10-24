@@ -40,9 +40,6 @@ body {
   font-weight: 700;
   margin: 0.25rem 0.125rem;
   cursor: pointer;
-  /*position: absolute;*/
-/*  bottom: 3.125rem;
-  right: 1.875rem;*/
   border-radius: 0.5rem;
 }
 
@@ -81,11 +78,8 @@ p {
     font-family: 'Fraunces';
     font-weight: 700;
     text-align: left;
-
     width: 100px;
-    /*position: absolute;*/
-    /*right: 6.25rem;*/
-    /*bottom: 6.25rem;*/
+
 }
 #price_cut {
     text-decoration-line: line-through;
