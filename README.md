@@ -1,2 +1,2 @@
 
-A challenge from frontend mentor challenges
+A challenge from frontend mentor challenges.
